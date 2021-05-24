@@ -1,0 +1,16 @@
+C:\MyPrograms\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe.config
+C:\MyPrograms\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe
+C:\MyPrograms\PetrolStation\PetrolStation\bin\Debug\PetrolStation.pdb
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csprojAssemblyReference.cache
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\MainWindow.g.cs
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\App.g.cs
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation_MarkupCompile.cache
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation_MarkupCompile.lref
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\MainWindow.baml
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.g.resources
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.Properties.Resources.resources
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.GenerateResource.cache
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.CoreCompileInputs.cache
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.exe
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\PetrolStation.pdb
+C:\MyPrograms\PetrolStation\PetrolStation\obj\Debug\GeneratedInternalTypeHelper.g.cs
